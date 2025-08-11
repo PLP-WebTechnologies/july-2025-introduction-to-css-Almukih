@@ -1,0 +1,71 @@
+body {
+    background-color: #FAF3E0;
+}
+
+#rname {
+    font-family: 'Playfair Display', serif;
+    font-size: 80px;
+    text-align: center;
+    color: #B6862C;
+}
+
+#pheading {
+    text-align: center;
+    font-style: italic;
+    text-align: center;
+    color: red;
+    font-size: larger;
+}
+
+nav ul li a {
+    color: red;
+}
+
+#about {
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(218, 218, 236);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#starters {
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    padding-left: 30%;
+    background-color: #F8EBD7;
+}
+
+#mcourses {
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    padding-left: 30%;
+    background-color: #F4F9F4;
+}
+
+#desserts {
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    padding-left: 30%;
+    background-color: #800020;
+}
+
+#hours {
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 10px;
+    padding-left: 30%;
+    background-color: #333333;
+}
+
+#continfo {
+    border: 3px solid black;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #8d6666;
+}
